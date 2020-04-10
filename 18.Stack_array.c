@@ -15,7 +15,7 @@ int main()
     top=-1;
     printf("\n Enter the size of STACK : ");
     scanf("%d",&n);
-    printf("\n\t STACK OPERATIONS USING ARRAY");
+    printf("\n\t STACK OPERATIONS USING ARRAY ");
     printf("\n\t--------------------------------");
     printf("\n\t 1.PUSH\n\t 2.POP\n\t 3.DISPLAY\n\t 4.EXIT");
     do
