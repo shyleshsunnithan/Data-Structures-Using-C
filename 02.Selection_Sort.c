@@ -25,7 +25,7 @@ int main()
              data[i]=temp;
          }
     }
-    printf("In ascending order: ");
+    printf("In ascending order : ");
     for(i=0;i<n;++i)
         printf("%d  ",data[i]);
     return 0;
