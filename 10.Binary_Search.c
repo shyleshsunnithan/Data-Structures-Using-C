@@ -29,7 +29,7 @@ void main()
 	last=size-1;
 	mid=(first+last)/2;
 
-	printf("Enter The element to be searched : ");
+	printf("Enter The Element to Be Searched : ");
 	scanf("%d",&key);
 
 	while(first<=last)
