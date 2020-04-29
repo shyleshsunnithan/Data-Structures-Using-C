@@ -77,7 +77,7 @@ void pop()
     }
     else
     {
-        printf("\n\t The popped elements is %d",stack[top]);
+        printf("\n\t The popped element is %d",stack[top]);
         top--;
     }
 }
