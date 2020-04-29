@@ -41,7 +41,7 @@ int main()
             }
             case 4:
             {
-                printf("\n\t EXIT POINT ");
+                printf("\n\t Exit Point ");
                 break;
             }
             default:
