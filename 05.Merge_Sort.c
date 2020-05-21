@@ -88,7 +88,7 @@ int main()
     }
     printf("Given array is \n"); 
     printArray(a, n); 
-  
+   
     mergeSort(a, 0, n - 1); 
   
     printf("\nSorted array is \n"); 
