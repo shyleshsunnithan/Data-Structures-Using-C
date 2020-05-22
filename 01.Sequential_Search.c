@@ -2,7 +2,7 @@
    Roll No: 47
    Program No. 1
    Program: Sequential Search */
-
+ 
 #include <stdio.h>
  
 int main()
