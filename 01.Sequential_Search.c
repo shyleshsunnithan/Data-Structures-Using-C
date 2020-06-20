@@ -15,7 +15,7 @@ int main()
   printf("Enter %d integer(s) \n", n);
  
   for (c = 0; c < n; c++)
-    scanf("%d", &array[c]);
+    scanf("%d", &array[c]); 
  
   printf("Enter a number to search\n");
   scanf("%d", &search);
